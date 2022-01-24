@@ -1,4 +1,4 @@
-### Hi I'M SUTTAWEE CHATPATTANASIRI, WELCOME TO MY GITHUB PROFILE 💛🧡💚💖
+### Hi I'M SUTTAWEE CHATPATTANASIRI, WELCOME TO MY GITHUB PROFILE 💖💖💖
 
 <!-- 
 **net253/net253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 <img src="https://www.thesprucepets.com/thmb/wpN_ZunUaRQAc_WRdAQRxeTbyoc=/4231x2820/filters:fill(auto,1)/adorable-white-pomeranian-puppy-spitz-921029690-5c8be25d46e0fb000172effe.jpg" width="500" height="600">
 
-<a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Youtube</a>
+### 💛FOLLOW ME
+<hr style="width:100%;text-align:left;margin-left:0">
+👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Personal Website</a><br>
+👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Facebook</a><br>
+👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Instagram</a><br>
+👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Twitter</a>
 
+### 💜QUOTES
+<hr style="width:70%;text-align:left;margin-left:0">
 
+“เรียนรู้จากวันวาน ใช้ชีวิตเพื่อปัจจุบัน มีความหวังสำหรับวันพรุ่งนี้” — Albert Einstein
