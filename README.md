@@ -1,4 +1,4 @@
-### Hi I'm SUTTAWEE CHATPATTANASIRI,Welcome to my Github 💛🧡💚💖
+### Hi I'M SUTTAWEE CHATPATTANASIRI,WELCOME TO MY GITHUB PROFILE 💛🧡💚💖
 
 <!--
 **net253/net253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+😊 สวัสดีครับ ผมสุทธวีร์ ฉัตรพัฒนศิริ ปัจจุบันเป็น 👨‍💻Engineer ของ 🏭บริษัท SNC FORMER PUBLIC COMPANY LIMITED
+เเละเป็นนักศึกษาทุนปริญญาโท👨‍🎓 มีความสนใจในด้านการเขียนโปรเเกรม
 - 🔭 I’m currently working on SNC FORMER PUBLIC COMPANY LIMITED
 - 🌱 I’m currently learning back-end & developer
+- 📫 How to reach me: suttawee.net@gmail.com
