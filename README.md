@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SNC FORMER PUBLIC COMPANY LIMITED
 - 🌱 I’m currently learning back-end & developer
 - 📫 How to reach me: suttawee.net@gmail.com
+
+https://www.youtube.com/watch?v=w3Sd6f7CVPM
