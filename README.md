@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning back-end & developer
 - 📫 How to reach me: suttawee.net@gmail.com
 
-<img src="https://www.thesprucepets.com/thmb/wpN_ZunUaRQAc_WRdAQRxeTbyoc=/4231x2820/filters:fill(auto,1)/adorable-white-pomeranian-puppy-spitz-921029690-5c8be25d46e0fb000172effe.jpg" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/98304076/151193396-bce5eec5-de2a-4b18-9136-400f344ab14c.jpg"  width="600" height="600">
+
 
 ### 💛FOLLOW ME
 <hr style="width:100%;text-align:left;margin-left:0">
-👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Personal Website</a><br>
-👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Facebook</a><br>
-👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Instagram</a><br>
-👉 <a href="https://www.youtube.com/watch?v=fIAkdihd6Fg">Twitter</a>
+👉 <a href="https://www.facebook.com/net.suttawee/">Personal Website</a><br>
+👉 <a href="https://www.facebook.com/net.suttawee/">Facebook</a><br>
+👉 <a href="https://www.instagram.com/suttawee_sch/">Instagram</a><br>
+👉 <a href="https://twitter.com/net_phon">Twitter</a>
 
 ### 💜QUOTES
 <hr style="width:70%;text-align:left;margin-left:0">
