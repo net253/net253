@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 <hr style="width:70%;text-align:left;margin-left:0">
 
 “เรียนรู้จากวันวาน ใช้ชีวิตเพื่อปัจจุบัน มีความหวังสำหรับวันพรุ่งนี้” — Albert Einstein
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/net253?theme=dark&font=Bitter&ext=heatmap)
