@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/98304076/151193396-bce5eec5-de2a-4b18-9136-400f344ab14c.jpg"  width="600" height="600">
 
-### Skills
 
 
 ### Skills
