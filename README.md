@@ -26,29 +26,30 @@ Welcome to my GitHub profile! I'm a passionate software engineer with 4+ years o
 
 <img src="https://user-images.githubusercontent.com/98304076/151193396-bce5eec5-de2a-4b18-9136-400f344ab14c.jpg"  width="600" height="600">
 
-<hr style="width:100%;text-align:left;margin-left:0">
+
 
 ### 🚀 Featured Projects<br>
-🏭 Manufacturing & Industrial Systems<br>
+<hr style="width:100%;text-align:left;margin-left:0">
+🏭 Manufacturing & Industrial Systems
 
 • MES (Manufacturing Execution System) - Production management and monitoring system<br>
-• iWMS (Warehouse Management System) - Smart warehouse management solution<br><br>
+• iWMS (Warehouse Management System) - Smart warehouse management solution<br>
 
-🌿 Sustainability & Carbon Management<br>
+🌿 Sustainability & Carbon Management
 
 • iCTS (Carbon Trading System) - Platform for carbon credit trading<br>
-• iCCS (Carbon Credit System) - Carbon footprint tracking and management<br><br>
+• iCCS (Carbon Credit System) - Carbon footprint tracking and management<br>
 
-📱 Mobile & Web Applications<br>
+📱 Mobile & Web Applications
 
-BirdieX - Golf mobile application<br>
+• BirdieX - Golf mobile application<br>
 • Egg Counting Using Computer Vision - AI-powered egg detection system<br>
-• CLEAR SKY THAI MASSAGE & SLEEP SALON - Business landing page<br><br>
+• CLEAR SKY THAI MASSAGE & SLEEP SALON - Business landing page<br>
 
-<hr style="width:100%;text-align:left;margin-left:0">
+
 
 ### 💻 Technical Skills
-
+<hr style="width:100%;text-align:left;margin-left:0">
 Programming Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -99,6 +100,25 @@ Industrial & Engineering Tools
 ERP: SAP
 Automation: Mitsubishi PLC | Fanuc Robot | NAO (Pepper Robotic) | Arduino
 Engineering: Ansys | Matlab | Solidwork
+
+### 🏆 Certifications
+<hr style="width:100%;text-align:left;margin-left:0">
+Software Engineering & Quality<br>
+
+✅ ISO/IEC 29110-4-1: System and Software Engineering - Lifecycle profile for Very Small Entities (VSEs)
+
+Sustainability & Carbon Management<br>
+
+✅ TGO Guidance of the Carbon Footprint for Organization<br>
+✅ อุตสาหกรรมสีเขียวระดับที่ 4 วัฒนธรรมสีเขียว (Green Culture)<br>
+✅ โรงงานอุตสาหกรรมเชิงนิเวศ (ECO Factory)<br>
+
+Technology & Development<br>
+
+✅ Digital Transformation: Artificial Intelligence for Industry 5.0 (AI-I5)<br>
+✅ Building 20 Projects with JavaScript<br>
+✅ NestJS: The Complete Developer's Guide<br>
+✅ Data + AI for Communication: PDPA for Business Opportunity<br>
 
 
 
