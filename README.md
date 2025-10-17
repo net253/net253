@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-Hi, I'm SUTTAWEE CHATPATTANASIRI 👋<br>
+SUTTAWEE CHATPATTANASIRI 👋<br>
 Project Manager & Software Engineer<br><br>
 Welcome to my GitHub profile! I'm a passionate software engineer with 4+ years of experience in developing industrial software systems, specializing in Manufacturing Execution Systems (MES) and sustainability management platforms.<br><br>
 🎓 Master's Degree in Mechatronics Engineering<br>
