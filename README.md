@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-😊 สวัสดีครับ ผมสุทธวีร์ ฉัตรพัฒนศิริ ปัจจุบันเป็น 👨‍💻Engineer ของ 🏭บริษัท SNC FORMER PUBLIC COMPANY LIMITED
-เเละเป็นนักศึกษาทุนปริญญาโท👨‍🎓 มีความสนใจในด้านการเขียนโปรเเกรมการทำเว็บไซต์ ชอบที่จะเรียนรู้สิ่งใหม่ๆเสมอๆ
-- 🔭 I’m currently working on SNC FORMER PUBLIC COMPANY LIMITED
-- 🌱 I’m currently learning back-end & developer
-- 📫 How to reach me: suttawee.net@gmail.com
+Hi, I'm SUTTAWEE CHATPATTANASIRI 👋
+Project Manager & Software Engineer
+Welcome to my GitHub profile! I'm a passionate software engineer with 4+ years of experience in developing industrial software systems, specializing in Manufacturing Execution Systems (MES) and sustainability management platforms.
+🎓 Master's Degree in Mechatronics Engineering
+🏭 Current Position: Project Manager & Software Engineer
+🌱 Currently Learning: AI/ML, Advanced Project Management
+💼 Focus Areas: Software Project Management, Industrial Automation Systems, Green Technology Solutions
+📫 Email: suttawee.net@gmail.com
+🌍 Languages: Thai (Native), English (CEFR B1), Chinese (Beginner)
 
 <img src="https://user-images.githubusercontent.com/98304076/151193396-bce5eec5-de2a-4b18-9136-400f344ab14c.jpg"  width="600" height="600">
 
