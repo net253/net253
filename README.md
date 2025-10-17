@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Project Manager & Software Engineer<br><br>
 Welcome to my GitHub profile! I'm a passionate software engineer with 4+ years of experience in developing industrial software systems, specializing in Manufacturing Execution Systems (MES) and sustainability management platforms.<br><br>
 🎓 Master's Degree in Mechatronics Engineering<br>
+🎓 Bachelor's Degree in Aeronautical Engineering (Vice President of Aeronautical Engineering Association)<br>
 🏭 Current Position: Project Manager & Software Engineer<br>
 🌱 Currently Learning: AI/ML, Advanced Project Management<br>
 💼 Focus Areas: Software Project Management, Industrial Automation Systems, Green Technology Solutions<br>
